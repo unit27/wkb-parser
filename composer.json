@@ -1,5 +1,5 @@
 {
-    "name": "creof/wkb-parser",
+    "name": "unit27/creof-wkb-parser",
     "type": "library",
     "description": "Parser for well-known binary (WKB/EWKB) object data",
     "keywords": ["parser", "string", "text", "geometry", "geography", "spatial", "wkb", "ewkb"],
